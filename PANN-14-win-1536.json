@@ -5,7 +5,6 @@
         "clip_samples": 480000,
         "mel_bins": 64,
         "sample_rate": 48000,
-        "window_size": 1536,
         "hop_size": 480,
         "fmin": 50,
         "fmax": 14000,
@@ -13,7 +12,6 @@
         "model_type": "PANN",
         "model_name": "Cnn14"
     },
-    "text_cfg": {
         "context_length": 77,
         "vocab_size": 49408,
         "width": 512,
